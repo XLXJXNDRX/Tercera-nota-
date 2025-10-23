@@ -1,4 +1,4 @@
-package Unidad4;
+package calculator;
 
 public class Calculadora {
   public int  sumar(int numA, int numB){

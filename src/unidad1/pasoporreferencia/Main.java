@@ -1,13 +1,6 @@
-package Unidad4.pasoporreferencia;
+package pasoporreferencia;
 
-public class Box {
-    int size;
-
-    public Box(int size) {
-        this.size = size;
-    }
-} 
-public class main{
+public class Main{
     public static void ChangeBox(Box newBox){
         newBox.size =20;
     }

@@ -1,3 +1,4 @@
+package calculator;
 public class calculator{
     public int sumar(int numA, int numB) {
         return numA+numB;

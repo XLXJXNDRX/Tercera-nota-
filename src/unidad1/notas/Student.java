@@ -1,3 +1,4 @@
+package notas;
 public class Student {
     String name;
     double grade;

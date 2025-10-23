@@ -1,3 +1,4 @@
+package notas;
 
 public class producto {
     private String nombre;
